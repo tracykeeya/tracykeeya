@@ -3,8 +3,8 @@ I'm a passionate Junior Software Developer who loves building impactful digital 
 
 Currently, I'm expanding my expertise into Data Science to bridge the gap between software development and data-driven insights.
 
-🛠️ Tech Stack
-Languages: Python, JavaScript, HTML, CSS
+🛠️ **Tech Stack**
+Languages: Python, HTML, CSS
 
 Backend: Django, Django REST Framework
 
@@ -18,7 +18,7 @@ Tools & Platforms: Git, GitHub, VS Code, Postman, Docker (basic), CMS (WordPress
 
 Currently Learning: Data Science, Pandas, NumPy, Matplotlib, Scikit-learn
 
-💼 What I Can Do
+💼 **What I Can Do**
 Build and consume RESTful APIs using Django REST Framework
 
 Develop responsive web applications with React
@@ -31,26 +31,26 @@ Integrate with external services (e.g., payment gateways, CMS plugins)
 
 Work with version control systems (Git/GitHub)
 
-📚 Current Focus
+📚 **Current Focus**
 📊 Building data dashboards and visualizations
 
 🧠 Learning machine learning fundamentals
 
 📈 Applying data science in real-world projects
 
-🔍 Looking For
-Opportunities to collaborate on open-source or freelance projects
+🔍 **Looking For**
+Opportunities to collaborate on open source or freelance projects
 
 Mentorship and guidance in data science and DevOps
 
-Remote internships or junior developer roles
+Internships and developer roles
 
-📫 Connect With Me
-💼 LinkedIn
+📫 **Connect With Me**
+💼 LinkedIn: https://www.linkedin.com/in/tracy-keeya-099962310
 
-🧑‍💻 GitHub
+🧑‍💻 GitHub: https://github.com/tracykeeya
 
-📧 Email: yourname@example.com
+📧 Email: keeyatracy@gmail.com
 
 ✨ Fun Fact
-I believe great software starts with great empathy — understanding the user is as important as writing the code.
+I believe great software starts with great empathy, understanding the user is as important as writing the code.
