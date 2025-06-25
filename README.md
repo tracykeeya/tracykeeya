@@ -33,7 +33,7 @@ Currently diving deep into **Data Science** to blend software with data-driven i
 | **Frontend**   | `React`, `React Native` |
 | **Styling**    | `Tailwind CSS`, `Bootstrap` |
 | **Databases**  | `PostgreSQL`, `SQLite` |
-| **Tools**      | `Git`, `GitHub`, `VS Code`, `Postman`, `Docker` (basic), `CMS` (WordPress, Joomla) |
+| **Tools**      | `Git`, `GitHub`, `VS Code`, `Postman`, `Docker` (basic), `CMS` |
 | **Learning**   | `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn` |
 
 ---
@@ -84,9 +84,10 @@ Currently diving deep into **Data Science** to blend software with data-driven i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tracykeeya&show_icons=true&theme=radical&hide_border=true" alt="Tracy Keeya's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tracykeeya&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tracykeeya&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=tracykeeya&theme=radical&hide_border=true" width="48%" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracykeeya&layout=compact&theme=radical&hide_border=true" width="48%"/>
@@ -96,6 +97,6 @@ Currently diving deep into **Data Science** to blend software with data-driven i
 
 ## ✨ Fun Fact
 
-> 💡 *I believe great software starts with great empathy — understanding the user is as important as writing the code.*
+> 💡 *I believe great software starts with great empathy, understanding the user is as important as writing the code.*
 
 ---
