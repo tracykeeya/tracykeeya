@@ -1,49 +1,88 @@
-Hi there 👋 I'm Tracy Keeya I'm a passionate Junior Software Developer who loves building impactful digital solutions. With hands-on experience in Python, Django, React, React Native, HTML, CSS, and CMS tools, I enjoy developing full-stack applications that solve real-world problems.
+<h1 align="center">Hi 👋, I'm Tracy Keeya</h1>
+<h3 align="center">Junior Software Developer | Full-Stack Enthusiast | Data Science Explorer</h3>
 
-Currently, I'm expanding my expertise into Data Science to bridge the gap between software development and data-driven insights.
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Code-Django-green?style=flat-square&logo=django" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Tools-VSCode-blue?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Currently Learning-Data Science-orange?style=flat-square" />
+</p>
 
-🛠️ Tech Stack Languages: Python, HTML, CSS
+---
 
-Backend: Django, Django REST Framework
+## 🧑‍💻 About Me
 
-Frontend: React, React Native
+I'm a **Junior Software Developer** with a passion for building impactful digital solutions. I enjoy crafting full-stack applications using modern technologies like:
 
-Styling: Tailwind CSS, Bootstrap
+- 🐍 **Python**, Django, Django REST Framework  
+- ⚛️ **React**, React Native  
+- 🎨 **Tailwind CSS**, Bootstrap  
+- 💾 **PostgreSQL**, SQLite  
 
-Databases: PostgreSQL, SQLite
+Currently diving deep into **Data Science** to blend software with data-driven insights.
 
-Tools & Platforms: Git, GitHub, VS Code, Postman, Docker (basic), CMS (WordPress, Joomla)
+---
 
-Currently Learning: Data Science, Pandas, NumPy, Matplotlib, Scikit-learn
+## 🔧 Tech Stack
 
-💼 What I Can Do Build and consume RESTful APIs using Django REST Framework
+| Category       | Tools & Technologies |
+|----------------|----------------------|
+| **Languages**  | `Python`, `HTML`, `CSS` |
+| **Backend**    | `Django`, `DRF` |
+| **Frontend**   | `React`, `React Native` |
+| **Styling**    | `Tailwind CSS`, `Bootstrap` |
+| **Databases**  | `PostgreSQL`, `SQLite` |
+| **Tools**      | `Git`, `GitHub`, `VS Code`, `Postman`, `Docker` (basic), `CMS` (WordPress, Joomla) |
+| **Learning**   | `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn` |
 
-Develop responsive web applications with React
+---
 
-Create cross-platform mobile apps using React Native
+## 🚀 What I Can Do
 
-Design elegant frontends with HTML/CSS and modern frameworks
+- 🔌 Build and consume RESTful APIs with Django REST Framework  
+- 🌐 Create responsive web apps with React  
+- 📱 Develop cross-platform mobile apps using React Native  
+- 🎨 Design intuitive UIs using HTML/CSS, Bootstrap, and Tailwind  
+- 🔗 Integrate external services (e.g. payment gateways, CMS plugins)  
+- 🛠️ Collaborate using Git and GitHub
 
-Integrate with external services (e.g., payment gateways, CMS plugins)
+---
 
-Work with version control systems (Git/GitHub)
+## 📚 Current Focus
 
-📚 Current Focus 📊 Building data dashboards and visualizations
+- 📊 Building interactive data dashboards  
+- 🤖 Learning machine learning fundamentals  
+- 🧪 Applying data science techniques to real-world challenges  
 
-🧠 Learning machine learning fundamentals
+---
 
-📈 Applying data science in real-world projects
+## 🌱 Open To
 
-🔍 Looking For Opportunities to collaborate on open source or freelance projects
+- 💡 Collaborating on open source & freelance projects  
+- 🤝 Mentorship in DevOps and Data Science  
+- 💼 Junior Developer or Internship Roles  
 
-Mentorship and guidance in data science and DevOps
+---
 
-Internships and developer roles
+## 📬 Let's Connect
 
-📫 Connect With Me 💼 LinkedIn: https://www.linkedin.com/in/tracy-keeya-099962310
+<p align="left">
+  <a href="https://www.linkedin.com/in/tracy-keeya-099962310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/tracykeeya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:keeyatracy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-🧑‍💻 GitHub: https://github.com/tracykeeya
+---
 
-📧 Email: keeyatracy@gmail.com
+## ✨ Fun Fact
 
-✨ Fun Fact I believe great software starts with great empathy, understanding the user is as important as writing the code
+> 💡 *I believe great software starts with great empathy — understanding the user is as important as writing the code.*
+
+---
