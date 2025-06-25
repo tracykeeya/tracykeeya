@@ -85,7 +85,6 @@ Currently diving deep into **Data Science** to blend software with data-driven i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tracykeeya&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracykeeya&layout=compact&theme=radical&hide_border=true" width="48%" />
 <!--   <img src="https://streak-stats.demolab.com/?user=tracykeeya&theme=radical&hide_border=true" width="48%" /> -->
 </p>
 
